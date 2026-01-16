@@ -1,0 +1,10 @@
+{
+  "name": "dark-nights-v2",
+  "version": "2.0.0",
+  "description": "DARK NIGHTS V2 - Discord Bot Hosting 24/7",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Ready'",
+    "start": "serve public"
+  }
+}
